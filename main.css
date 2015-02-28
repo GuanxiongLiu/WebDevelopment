@@ -1,0 +1,9 @@
+.highlight {
+	background: lightgrey;
+}
+.selected {
+	font-weight: bold;
+}
+.show-button {
+	display: inline-block;
+}
